@@ -1,5 +1,3 @@
-#!/home/luca/testing/myvenv/bin/python
-
 import time
 import logging
 from slack_sdk import WebClient
