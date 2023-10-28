@@ -6,4 +6,4 @@ Then, according to your needs, create a slack token to be inserted in the python
 - https://api.slack.com/methods/conversations.history
 - https://api.slack.com/methods/chat.delete
 
-Both methods are ```Web API Tier 3```, meaning they do not have too strict of a limit. At the moment they are capped at roughly 50+ runs per minute. See here for official reference: https://api.slack.com/docs/rate-limits
+Both methods fall under ```Web API Tier 3```, which implies they have relatively lenient rate limits. Currently, they are restricted to approximately 50 or more runs per minute. For official rate limit details, please refer to this link: https://api.slack.com/docs/rate-limits.
