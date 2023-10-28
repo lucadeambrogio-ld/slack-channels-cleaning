@@ -1,4 +1,4 @@
-# Slack-Channels-Cleaning
+# slack-channels-cleaning
 
 Clean Slack Channels
 
