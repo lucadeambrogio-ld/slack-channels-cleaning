@@ -1,6 +1,3 @@
-# https://api.slack.com/methods/conversations.history
-# https://api.slack.com/methods/chat.delete
-
 import time
 import logging
 from slack_sdk import WebClient
