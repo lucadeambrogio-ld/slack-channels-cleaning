@@ -1,4 +1,5 @@
-# Slack-Conversation-Cleaning
+# Slack-Channels-Cleaning
+
 Clean Slack Channels
 
 To set up this script in python, you first need to create a slack app here https://api.slack.com/apps.
